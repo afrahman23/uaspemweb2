@@ -23,7 +23,7 @@
 
 
 ## Source Materi Ajar 📡
-- Learning Pertemuan dosen Dosen : Raden Muhamad Firzatullah, M.Kom) - Sesi: 9,11,12,13,14 tentang codeigniter 3 (perkenalan mvc codeigniter, crud posting berita, session & otorisasi, api)
-- [Official guide ](https://www.codeigniter.com/userguide3/tutorial/static_pages.html) about Codeigniter 3
+- 📖 Learning Pertemuan dosen Dosen 🎓🇮🇩: Raden Muhamad Firzatullah, M.Kom - Sesi: 9,11,12,13,14 tentang codeigniter 3 (perkenalan mvc codeigniter, crud posting berita, session & otorisasi, api)
+- 📕 [Official guide ](https://www.codeigniter.com/userguide3/tutorial/static_pages.html) about Codeigniter 3
 
 

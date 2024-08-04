@@ -4,12 +4,12 @@
 
 
 # List Nama Kelompok 2; ⚡️ 
-🧑‍💻 Eska Pratama DK (Ketua Kelompok aka Creator Koding) ⚙
-👨‍💻 Assaf Rahman (Onlinekan Web kelompok rbs.web.id)
-👨‍💻 Muhammad Faqih
-👨‍💻 Briyan Bayu P
-👨‍💻 Rave Alfi Annur
-👨‍💻 Aan Fadill
+-🧑‍💻 Eska Pratama DK (Ketua Kelompok aka Creator Koding) ⚙
+-👨‍💻 Assaf Rahman (Onlinekan Web kelompok rbs.web.id)
+-👨‍💻 Muhammad Faqih
+-👨‍💻 Briyan Bayu P
+-👨‍💻 Rave Alfi Annur
+-👨‍💻 Aan Fadill
 
 ## Tantangan sesuai soal UAS 📚
 ### 🔗 Aplikasi berbasis website bertema Edukasi 🎓 menggunakan sebuah Web Framework CI3 🛫

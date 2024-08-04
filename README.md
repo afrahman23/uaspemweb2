@@ -1,4 +1,5 @@
-# Tugas UAS - Pemrograman Web II // Logika MVC Codeigniter 3 ⚡️ 
+# Tugas Kelompok UAS - Pemrograman Web II // Logika MVC Codeigniter 3 ⚡️ 
+Untuk tugas Kelompok 2 dipilih coding terbaik by [Eska Pratama DK](https://github.com/afrahman23/uaspemweb2) -> [rbs.web.id](https://rbs.web.id/)
 
 🎯 It's not made to look good, but tries to focus on solving problems step by step
 

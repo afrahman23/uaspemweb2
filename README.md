@@ -4,15 +4,15 @@
 
 
 # List Nama Kelompok 2; ⚡️ 
-Eska Pratama DK (Ketua Kelompok aka Creator Koding) ⚙
-Assaf Rahman (Onlinekan Web kelompok rbs.web.id)
-Muhammad Faqih
-Briyan Bayu P
-Rave Alfi Annur
-Aan Fadill
+🧑‍💻 Eska Pratama DK (Ketua Kelompok aka Creator Koding) ⚙
+👨‍💻 Assaf Rahman (Onlinekan Web kelompok rbs.web.id)
+👨‍💻 Muhammad Faqih
+👨‍💻 Briyan Bayu P
+👨‍💻 Rave Alfi Annur
+👨‍💻 Aan Fadill
 
 ## Tantangan sesuai soal UAS 📚
-### Aplikasi berbasis website bertema Edukasi 🎓 menggunakan sebuah Web Framework CI3 🛫
+### 🔗 Aplikasi berbasis website bertema Edukasi 🎓 menggunakan sebuah Web Framework CI3 🛫
 1. Pembagian hak akses pengguna apps 🛡🔐
     -Bagaimana cara membedakan level akses guru & siswa saat pertama mendaftar ✅
     -Bagaimana cara memisahkan hak akses guru (boleh posting materi & komentar) & siswa (hanya boleh komentar) ✅
